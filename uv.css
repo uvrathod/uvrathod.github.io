@@ -6,15 +6,15 @@ Background-color: linen;
 {
 Width:80%;
 Margin:5% auto;
-Background-color:yellow;
+
 }
 
 .Mainc>div
 {
 Font-family:Arial;
-Font-weight:strong;
+Font-weight:bold;
 Text-align:center;
-Font-size:80px;
+Font-size:200px;
 Width:16%;
 Display: inline-block;
 }
