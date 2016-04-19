@@ -16,20 +16,21 @@ Font-weight:bold;
 Text-align:center;
 Font-size:200px;
 Width:16%;
-Display: inline-block;
+Position: absolute;
 }
 
 .lettery
 {
+
 Color: #8bc34a;
 }
 .letteru
-{
+{Margin-left:13.8%;
 Color: #ffeb3b;
 }
 .letterv
 {
-Color: #ff572;
+Color: #ff5722;
 }
 .letterr
 {
