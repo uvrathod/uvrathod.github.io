@@ -11,7 +11,9 @@ Background-color:yellow;
 
 .Mainc>div
 {
-Font-face:Arial;
+Font-family:Arial;
+Font-weight:strong;
+Text-align:center;
 Font-size:80px;
 Width:16%;
 Display: inline-block;
