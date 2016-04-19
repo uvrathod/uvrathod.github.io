@@ -1,5 +1,5 @@
 body {
-Background-color:#0000b4;
+Background-color:#00BCD4;
 }
 
 .Mainc
@@ -17,4 +17,30 @@ Text-align:center;
 Font-size:200px;
 Width:16%;
 Display: inline-block;
+}
+
+.lettery
+{
+Color: #8bc34a;
+}
+.letteru
+{
+Color: #ffeb3b;
+}
+.letterv
+{
+Color: #ff572;
+}
+.letterr
+{
+Color: #009688;
+}
+
+.lettera
+{
+Color: #9c27b0;
+}
+.letterj
+{
+Color: #2196f3;
 }
