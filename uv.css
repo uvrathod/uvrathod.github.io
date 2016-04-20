@@ -135,7 +135,14 @@ width: 80%;
 margin : auto;
 position:relative;
 height:180px;
-  
+}
+
+.name22
+{
+  width:80%;
+  margin: auto;
+position:relative;
+height:180px;
 }
 
 .mains
@@ -147,9 +154,19 @@ color:rgb(200,200,200);
   position:absolute;
   bottom:27;
 Transition:all 0.6s ease-in-out;
-
-  
 }
+
+.names
+{
+  position:absolute;
+  text-align:center;
+}
+.namer
+{
+  position:absolute;
+  text-align:center;
+}
+
 
 .mains>div
 {
