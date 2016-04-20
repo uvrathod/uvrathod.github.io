@@ -23,7 +23,7 @@ Margin:5% auto;
 position: relative;
 }
 
-.name2>div
+/*.name2>div
 {
   font-family:forte;
   font-weight:bold;
@@ -33,7 +33,7 @@ position: relative;
   position:absolute;
 transition: all 0.6s ease-in-out;
   
-}
+}*/
 .Mainc>div
 {
 Font-family:Arial;
@@ -48,17 +48,37 @@ Transition:all 0.6s ease-in-out;
 }
 
 .ltry
-{
+{font-family:forte;
+  font-weight:bold;
+  text-align:center;
+  font-size:200px;
+  width:16.6%;
+  position:absolute;
+transition: all 0.6s ease-in-out;
   color: #2196f3 ;
 }
 
 .ltru
 {Margin-left:16%;
   color:#9c27b0;Margin-top:10%;
+  font-family:forte;
+  font-weight:bold;
+  text-align:center;
+  font-size:200px;
+  width:16.6%;
+  position:absolute;
+transition: all 0.6s ease-in-out;
 }
 
 .ltrv
 {Margin-left:32%;
+font-family:forte;
+  font-weight:bold;
+  text-align:center;
+  font-size:200px;
+  width:16.6%;
+  position:absolute;
+transition: all 0.6s ease-in-out;
   color:#009688;Margin-top:20%;
 }
 
@@ -66,18 +86,39 @@ Transition:all 0.6s ease-in-out;
 .ltrr
 {Margin-left:48%;Margin-top:20%;
   color: #ff5722;
+  font-family:forte;
+  font-weight:bold;
+  text-align:center;
+  font-size:240px;
+  width:16.6%;
+  position:absolute;
+transition: all 0.6s ease-in-out;
 }
 
 
 .ltra
 {Margin-left:64%;Margin-top:10%;
   color:#ffeb3b;
+  font-family:forte;
+  font-weight:bold;
+  text-align:center;
+  font-size:200px;
+  width:16.6%;
+  position:absolute;
+transition: all 0.6s ease-in-out;
 }
 
 
 .ltrj
 {Margin-left:80%;
   color:#8bc34a;
+  font-family:forte;
+  font-weight:bold;
+  text-align:center;
+  font-size:200px;
+  width:16.6%;
+  position:absolute;
+transition: all 0.6s ease-in-out;
 }
 
 
@@ -198,6 +239,7 @@ Transition:all 0.6s ease-in-out;
 {
   position:absolute;
   text-align:center;
+  padding-left:30%;
 }
 
 
