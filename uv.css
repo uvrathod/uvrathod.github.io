@@ -239,7 +239,7 @@ Transition:all 0.6s ease-in-out;
 {
   position:absolute;
   text-align:center;
-  padding-left:30%;
+  padding-left:65%;
 }
 
 
@@ -282,6 +282,38 @@ Margin-bottom:1%;
   right:0;
   
 }
+
+.ltraa
+{
+  display:inline-block;
+  font-size:50px;
+}
+
+.ltrt
+{
+  display:inline-block;
+  font-size:70px;
+}
+
+.ltrhg
+{
+  display:inline-block;
+  font-size:90px;
+}
+
+.ltro
+{
+  display:inline-block;
+  font-size:110px;
+}
+
+.ltrd
+{
+  display:inline-block;
+  font-size:13px;
+}
+
+
 
 .mainr>div
 {
