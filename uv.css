@@ -87,7 +87,7 @@ height:120px;
 .mains>div
 {
 Font-family:Arial;
-Text-align:bottom;
+bottom:0;
 Font-size:70px;
 Width:16%;
 Position: relative;
