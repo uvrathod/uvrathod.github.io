@@ -96,6 +96,15 @@ Transition:all 0.6s ease-in-out;
 display: inline-block;
   
 }
+
+.Mains>div:hover
+{
+Color:white;
+Margin-bottom:5%;
+
+
+}
+
 .mainr
 {
   width:88%;
