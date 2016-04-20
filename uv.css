@@ -101,6 +101,20 @@ display: inline-block;
   width:70%;
   margin: 0 ;
   float:right;
+  position:absolute;
+  bottom:0;
 }
+
+.mainr>div
+{
+  text-align:center;
+  font-family:arial;
+  font-weight:bold;
+  font-size:150px;
+  position:relative;
+  transition:all 0.6s ease-in-out;
+  display:inline-block;
+}
+
 
 
