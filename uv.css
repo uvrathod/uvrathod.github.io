@@ -48,30 +48,30 @@ Transition:all 0.6s ease-in-out;
 }
 
 .ltru
-{
+{Margin-left:16%;
   color:#9c27b0;
 }
 
 .ltrv
-{
+{Margin-left:32%;
   color:#009688;
 }
 
 
 .ltrr
-{
+{Margin-left:48%;
   color: #ff5722;
 }
 
 
 .ltra
-{
+{Margin-left:64%;
   color:#ffeb3b;
 }
 
 
 .ltrj
-{
+{Margin-left:80%;
   color:#8bc34a;
 }
 .lettery
