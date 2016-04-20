@@ -97,7 +97,7 @@ display: inline-block;
   
 }
 
-.Mains>div:hover
+.Mains:hover
 {
 Color:white;
 Margin-bottom:5%;
