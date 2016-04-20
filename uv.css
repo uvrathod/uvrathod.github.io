@@ -161,6 +161,34 @@ Transition:all 0.6s ease-in-out;
   position:absolute;
   text-align:center;
 }
+
+.ltrs
+{
+  font-size:130px;
+  display:inline-block;
+}
+.ltri
+{
+  font-size:110px;
+  display:inline-block;
+}
+.ltrn
+{
+  font-size:90px;
+  display:inline-block;
+}
+.ltrg
+{
+  font-size:70px;
+  display:inline-block;
+}
+.ltrh
+{
+  font-size:50px;
+  display:inline-block;
+}
+
+
 .namer
 {
   position:absolute;
