@@ -73,7 +73,7 @@ Margin-top:5%;
 width: 80%;
 margin : auto;
 position:relative;
-height:120px;
+height:180px;
   
 }
 
@@ -129,8 +129,6 @@ Margin-bottom:1%;
   position:relative;
   transition:all 0.6s ease-in-out;
   display:inline-block;
-
-  
 }
 
 
@@ -138,7 +136,5 @@ Margin-bottom:1%;
 {
 Color:white;
 Margin-top:5%;
-
-
 }
 
