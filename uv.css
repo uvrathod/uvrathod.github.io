@@ -79,7 +79,7 @@ height:120px;
 
 .mains
 {
-  width:10%;
+  width:12%;
   margin:0 0;
   float: left;
   position:absolute;
@@ -90,7 +90,7 @@ height:120px;
 {
 Font-family:Arial;
 text-align:center;
-Font-size:20px;
+Font-size:18px;
 Position: relative;
 Transition:all 0.6s ease-in-out;
 display: inline-block;
@@ -98,7 +98,7 @@ display: inline-block;
 }
 .mainr
 {
-  width:90%;
+  width:88%;
   margin: 0 ;
   float:right;
   position:absolute;
@@ -111,7 +111,7 @@ display: inline-block;
   text-align:center;
   font-family:arial;
   font-weight:bold;
-  font-size:150px;
+  font-size:120px;
   position:relative;
   transition:all 0.6s ease-in-out;
   display:inline-block;
