@@ -118,7 +118,7 @@ Margin-bottom:1%;
   position:absolute;
   bottom:0;
   right:0;
-  padding-right:7%;
+  
 }
 
 .mainr>div
@@ -129,6 +129,8 @@ Margin-bottom:1%;
   position:relative;
   transition:all 0.6s ease-in-out;
   display:inline-block;
+padding-right:7%;
+  
 }
 
 
