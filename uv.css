@@ -10,6 +10,25 @@ Margin:5% auto;
 position: relative;
 }
 
+.name2
+{
+height:240px;
+Width:80%;
+Margin:5% auto;
+position: relative;
+}
+
+.name2>div
+{
+  font-family:forte;
+  font-weight:bold;
+  text-align:center;
+  font-size:200px;
+  width:16.6%;
+  position:absolute;
+transition: all 0.6s ease-in-out;
+  
+}
 .Mainc>div
 {
 Font-family:Arial;
@@ -23,6 +42,38 @@ Transition:all 0.6s ease-in-out;
 
 }
 
+.ltry
+{
+  color: #2196f3 ;
+}
+
+.ltru
+{
+  color:#9c27b0;
+}
+
+.ltrv
+{
+  color:#009688;
+}
+
+
+.ltrr
+{
+  color: #ff5722;
+}
+
+
+.ltra
+{
+  color:#ffeb3b;
+}
+
+
+.ltrj
+{
+  color:#8bc34a;
+}
 .lettery
 {
 
