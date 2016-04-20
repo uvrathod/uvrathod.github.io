@@ -23,8 +23,6 @@ Transition:all 0.6s ease-in-out;
 
 }
 
-
-
 .lettery
 {
 
@@ -84,6 +82,15 @@ position:relative;
   float: left;
 }
 
+.mains>div
+{
+Font-family:Arial;
+Text-align:center;
+Font-size:100px;
+Width:16%;
+Position: absolute;
+Transition:all 0.6s ease-in-out
+}
 .mainr
 {
   width:70%;
