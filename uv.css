@@ -49,23 +49,23 @@ Transition:all 0.6s ease-in-out;
 
 .ltru
 {Margin-left:16%;
-  color:#9c27b0;
+  color:#9c27b0;Margin-top:10%;
 }
 
 .ltrv
 {Margin-left:32%;
-  color:#009688;
+  color:#009688;Margin-top:20%;
 }
 
 
 .ltrr
-{Margin-left:48%;
+{Margin-left:48%;Margin-top:20%;
   color: #ff5722;
 }
 
 
 .ltra
-{Margin-left:64%;
+{Margin-left:64%;Margin-top:10%;
   color:#ffeb3b;
 }
 
