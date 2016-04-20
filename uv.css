@@ -85,12 +85,12 @@ position:relative;
 .mains>div
 {
 Font-family:Arial;
-Text-align:center;
+Text-align:bottom;
 Font-size:70px;
 Width:16%;
 Position: absolute;
 Transition:all 0.6s ease-in-out;
-top : 0;
+
 
   
 }
