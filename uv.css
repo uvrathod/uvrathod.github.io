@@ -112,7 +112,7 @@ Margin-bottom:1%;
 .Mainr:hover
 {
 Color:white;
-Margin-bottom:5%;
+Margin-bottom:1%;
 
 
 }
@@ -121,6 +121,7 @@ Margin-bottom:5%;
 {
   color:#B2EBF2;
   padding-right:7%;
+  Transition:all 0.6s ease-in-out;
   margin: 0 0;
   float:right;
   position:absolute;
