@@ -4,6 +4,7 @@ Background-color:#00BCD4;
 
 .Mainc
 {
+height:240px;
 Width:80%;
 Margin:5% auto;
 position: relative;
@@ -69,10 +70,23 @@ Margin-top:5%;
 
 }
 
-.mainc2
+.mainc1
 {
 width: 80%;
-
-  
+margin : auto;
+position:relative;
 }
+
+.mains
+{
+  width:30%;
+  margin:0 0;
+  float: left;
+}
+
+.mainr
+{
+  width:70%;
+  margin: 0 ;
+  float:right;
 }
